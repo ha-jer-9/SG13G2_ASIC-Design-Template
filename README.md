@@ -95,3 +95,5 @@ It is planned to add scripts or template / reference project files for the follo
 	year = {2026}
 }
 ```
+
+https://docs.google.com/spreadsheets/d/1unYxUm8mWtsxz5HcpugQq33NE6ANkxdVn7eCGAOFzQM/edit?usp=drivesdk
